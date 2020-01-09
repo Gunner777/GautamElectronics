@@ -1,0 +1,22 @@
+.jumbotron{
+    min-height: 300px;
+    background: url('https://images.unsplash.com/photo-1534593963832-01c3595183bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60') fixed no-repeat;
+    background-size: cover;
+}
+
+#contact .card:hover i,#contact .card:hover h4{
+	color: #87d37c;
+}
+
+.carousel-item>img{
+    max-height: 600px;
+}
+
+#carouselExampleSlidesOnly{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.card>img{
+    max-height: 230px;
+}
